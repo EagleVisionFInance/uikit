@@ -37,6 +37,8 @@ export const baseColors = {
     nav: "#FFFFFF",
     priceBacground: "#FFFFFF",
     priceBorder: "#433734",
+    swapMenuBack: "#5F4D60",
+    swapMenuActive: "#230133",
     gradients: {
       bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     },
@@ -65,6 +67,8 @@ export const baseColors = {
     nav: "#38454C",
     priceBacground: "#3D5A6A",
     priceBorder: "#2B373D",
+    swapMenuBack: "#5F4D60",
+    swapMenuActive: "#230133",
     gradients: {
       bubblegum: "linear-gradient(139.73deg, #893e92 0%, #3a0e40 100%)",
     },

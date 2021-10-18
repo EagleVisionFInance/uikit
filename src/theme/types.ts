@@ -56,6 +56,8 @@ export type Colors = {
   nav: string;
   priceBacground: string,
   priceBorder: string,
+  swapMenuBack: string,
+  swapMenuActive: string,
 
   // Gradients
   gradients: Gradients;

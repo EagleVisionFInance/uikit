@@ -1,6 +1,6 @@
 {
   "name": "@eaglevision/uikit",
-  "version": "0.0.17",
+  "version": "0.0.21",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
