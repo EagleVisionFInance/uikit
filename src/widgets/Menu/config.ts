@@ -31,7 +31,7 @@ export const links = [
   {
     label: "Certik Audit (In-Progress)",
     icon: "ShieldIcon",
-    href: "https://twitter.com/eaglevision/status/1367218225310818308",
+    href: "https://twitter.com/EagleVisionADA/status/1367218225310818308",
     target: "_blank",
   },
   {
@@ -129,17 +129,17 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/eaglevisionfinance",
+    href: "https://t.me/eaglevisionBSCADA",
   },
   {
     label: "Discord",
     icon: "DiscordIcon",
-    href: "https://discord.gg/eaglevision",
+    href: "https://discord.gg/UTXcGHwCBE",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/eaglevision",
+    href: "https://twitter.com/EagleVisionADA",
   }
 ];
 
